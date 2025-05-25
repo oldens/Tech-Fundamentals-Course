@@ -5,7 +5,7 @@
 # Course Materials
 
 ## Student Resources
-- [Підсумкова презентація для учнів](Oglyad-Tehnologichnij-Stek-Suchasnosti.pdf) - Містить основні матеріали та підсумки курсу для учнів.
+- [Підсумкова презентація для учнів](Oglyad-Tehnologichnij-Stek-Suchasnosti%20(2).pdf) - Містить основні матеріали та підсумки курсу для учнів.
 
 ## Teacher Resources
 - [Педагогічна концепція курсу](Pedagogichna-Koncepciya-Kursu-Tehnologichnij-Stek-Suchasnosti.pdf) - Огляд педагогічних підходів та методик, що використовуються в курсі.

@@ -1,114 +1,114 @@
-# Course Program
+# Програма курсу
 
-## Technological Stack of Modernity: From AI to Web and Blockchain
+## Технологічний стек сучасності: від AI до Web та Blockchain
 
-### Detailed Course Plan (~27 lessons):
+### Детальний план курсу (~27 уроків):
 
-#### Block 1: Introduction to Machine Learning (Lessons 1-4)
+#### Блок 1: Вступ до машинного навчання (Уроки 1-4)
 
-- [Lesson 1: What is Machine Learning?](block-1/lesson-1/lesson.md)
-  - Topics: Definition of ML, types of tasks (classification, regression, clustering), key terms (features, labels, model, training), applications of ML, problem formulation.
+- [Урок 1: Що таке машинне навчання?](block-1-Introduction-to-Machine-Learning/lesson-1-Machine-Learning/lesson.md)
+  - Теми: Визначення ML, типи завдань (класифікація, регресія, кластеризація), ключові терміни (ознаки, мітки, модель, навчання), застосування ML, формулювання проблеми.
 
-- [Lesson 2: Probability for ML: Bayes' Theorem](block-1/lesson-2/lesson.md)
-  - Topics: Basics of probability theory, conditional probability, Bayes' theorem, examples of application in classification.
+- [Урок 2: Ймовірність для ML: Теорема Байєса](block-1-Introduction-to-Machine-Learning/lesson-2-Bayes-theorem/lesson.md)
+  - Теми: Основи теорії ймовірностей, умовна ймовірність, теорема Байєса, приклади застосування в класифікації.
 
-- [Lesson 3: Model Evaluation: Loss Functions](block-1/lesson-3/lesson.md)
-  - Topics: Importance of model quality evaluation, metrics, loss functions for regression (MSE, MAE) and classification (Cross-Entropy).
+- [Урок 3: Оцінка моделей: Функції втрат](block-1-Introduction-to-Machine-Learning/lesson-3-loss_functions/lesson.md)
+  - Теми: Важливість оцінки якості моделі, метрики, функції втрат для регресії (MSE, MAE) та класифікації (Cross-Entropy).
 
-- [Lesson 4: Introduction to Regression: Linear Regression](block-1/lesson-4/lesson.md)
-  - Topics: Problem formulation of regression, linear regression model, idea of least squares method and gradient descent (conceptually).
+- [Урок 4: Вступ до регресії: Лінійна регресія](block-1-Introduction-to-Machine-Learning/lesson-4-Introduction- to-Regression/lesson.md)
+  - Теми: Формулювання проблеми регресії, модель лінійної регресії, ідея методу найменших квадратів та градієнтного спуску (концептуально).
 
-#### Block 2: Python Basics for Analysis and Development (Lessons 5-10)
+#### Блок 2: Основи Python для аналізу та розробки (Уроки 5-10)
 
-- [Lesson 5: Getting Started with Python: Environment and Syntax](block-2/lesson-5/lesson.md)
-  - Topics: Installation, IDE, basic syntax, comments, indentation, variables, basic types (int, float, str, bool), print(), input().
+- [Урок 5: Початок роботи з Python: Середовище та синтаксис](block-2-Python_Basics_for_Analysis_and_Development/lesson-5 Environment and Syntax/lesson.md)
+  - Теми: Встановлення, IDE, базовий синтаксис, коментарі, відступи, змінні, базові типи (int, float, str, bool), print(), input().
 
-- [Lesson 6: Operators and Working with Strings](block-2/lesson-6/lesson.md)
-  - Topics: Arithmetic, comparison, logical operators. Strings: indexing, slicing, methods, formatting.
+- [Урок 6: Оператори та робота з рядками](block-2-Python_Basics_for_Analysis_and_Development/lesson-6 Operators and Working with Strings/lesson.md)
+  - Теми: Арифметичні, порівняльні, логічні оператори. Рядки: індексація, зрізи, методи, форматування.
 
-- [Lesson 7: Program Logic: Conditions and Loops](block-2/lesson-7/lesson.md)
-  - Topics: Conditional constructs (if/elif/else), loops while/for, break/continue, range().
+- [Урок 7: Логіка програми: Умови та цикли](block-2-Python_Basics_for_Analysis_and_Development/lesson-7/lesson.md)
+  - Теми: Умовні конструкції (if/elif/else), цикли while/for, break/continue, range().
 
-- [Lesson 8: Data Collections: Lists and Tuples](block-2/lesson-8/lesson.md)
-  - Topics: Lists: creation, methods, slicing. Tuples. List Comprehensions.
+- [Урок 8: Колекції даних: Списки та кортежі](block-2-Python_Basics_for_Analysis_and_Development/lesson-8/lesson.md)
+  - Теми: Списки: створення, методи, зрізи. Кортежі. Генератори списків.
 
-- [Lesson 9: Data Collections: Dictionaries and Sets](block-2/lesson-9/lesson.md)
-  - Topics: Dictionaries: key-value pairs, methods. Sets: unique elements, operations.
+- [Урок 9: Колекції даних: Словники та множини](block-2-Python_Basics_for_Analysis_and_Development/lesson-9/lesson.md)
+  - Теми: Словники: пари ключ-значення, методи. Множини: унікальні елементи, операції.
 
-- [Lesson 10: Functions: Basics of Modularity](block-2/lesson-10/lesson.md)
-  - Topics: Definition (def), parameters/arguments, return, scope.
+- [Урок 10: Функції: Основи модульності](block-2-Python_Basics_for_Analysis_and_Development/lesson-10/lesson.md)
+  - Теми: Визначення (def), параметри/аргументи, повернення, область видимості.
 
-#### Block 3: Web Development: From Layout to Interactivity (Lessons 11-17)
+#### Блок 3: Веб-розробка: від макету до інтерактивності (Уроки 11-17)
 
-- [Lesson 11: Building the Framework: HTML Basics](block-3/lesson-11/lesson.md)
-  - Topics: Document structure, main content tags (headings, paragraphs), containers <div>, links <a>, images <img>.
+- [Урок 11: Створення каркасу: Основи HTML](block-3-Web Development/lesson-11 TML Basics/lesson.md)
+  - Теми: Структура документа, основні теги контенту (заголовки, абзаци), контейнери <div>, посилання <a>, зображення <img>.
 
-- [Lesson 12: Adding Style: CSS Basics](block-3/lesson-12/lesson.md)
-  - Topics: Connecting CSS, selectors (classes, ID, tags), basic properties (color, font, background, size).
+- [Урок 12: Додавання стилю: Основи CSS](block-3-Web Development/lesson-12 dding Style CSS Basics/lesson.md)
+  - Теми: Підключення CSS, селектори (класи, ID, теги), основні властивості (колір, шрифт, фон, розмір).
 
-- [Lesson 13: Box Model and Positioning in CSS](block-3/lesson-13/lesson.md)
-  - Topics: padding, margin, border. Basics of position. Pseudo-class :hover.
+- [Урок 13: Модель коробки та позиціонування в CSS](block-3-Web Development/lesson-13 Box Model and Positioning in CSS/lesson.md)
+  - Теми: padding, margin, border. Основи позиціонування. Псевдоклас :hover.
 
-- [Lesson 14: Modern Layouts: Flexbox](block-3/lesson-14/lesson.md)
-  - Topics: display: flex, main properties of the container and items for flexible layout.
+- [Урок 14: Сучасні макети: Flexbox](block-3-Web Development/lesson-14 Flexbox/lesson.md)
+  - Теми: display: flex, основні властивості контейнера та елементів для гнучкого макету.
 
-- [Lesson 15: Modern Layouts: CSS Grid (Overview) and Responsiveness](block-3/lesson-15/lesson.md)
-  - Topics: Basics of display: grid, viewport, media queries.
+- [Урок 15: Сучасні макети: CSS Grid (Огляд) та адаптивність](block-3-Web Development/lesson-15 CSS Grid/lesson.md)
+  - Теми: Основи display: grid, viewport, медіа-запити.
 
-- Homework 1: Create and style a responsive HTML page for the class (using Flexbox/Grid).
+- Домашнє завдання 1: Створити та стилізувати адаптивну HTML-сторінку для класу (використовуючи Flexbox/Grid).
 
-- [Lesson 16: Accelerating Development: Bootstrap](block-3/lesson-16/lesson.md)
-  - Topics: Connecting, grid system, main components, utility classes.
+- [Урок 16: Прискорення розробки: Bootstrap](block-3-Web Development/lesson-16 Bootstrap/lesson.md)
+  - Теми: Підключення, система сітки, основні компоненти, утилітарні класи.
 
-- Homework 2: Customize the class website using Bootstrap.
+- Домашнє завдання 2: Налаштувати веб-сайт класу за допомогою Bootstrap.
 
-- [Lesson 17: Workshop: Rapid Website Creation](block-3/lesson-17/lesson.md)
-  - Topics: Working with a ready-made template, customization, deployment on GitHub Pages (preliminary introduction).
+- [Урок 17: Практикум: Швидке створення веб-сайту](block-3-Web Development/lesson-17 Rapid Website Creation/lesson.md)
+  - Теми: Робота з готовим шаблоном, налаштування, розгортання на GitHub Pages (попереднє ознайомлення).
 
-- Practice: Creating and publishing a simple portfolio website.
+- Практика: Створення та публікація простого портфоліо веб-сайту.
 
-#### Block 4: Developer Tools and Data Analytics (Lessons 18-19)
+#### Блок 4: Інструменти розробника та аналіз даних (Уроки 18-19)
 
-- [Lesson 18: Version Control: Git and GitHub](block-4/lesson-18/lesson.md)
-  - Topics: Importance of VCS. Git: init, add, commit, push, pull. Working with GitHub repositories. Publishing pages.
+- [Урок 18: Контроль версій: Git та GitHub](block-4 Developer Tools and Data Analytics/lesson-18 Git and GitHub/lesson.md)
+  - Теми: Важливість VCS. Git: init, add, commit, push, pull. Робота з репозиторіями GitHub. Публікація сторінок.
 
-- Homework 3: Publish all previous projects on GitHub.
+- Домашнє завдання 3: Опублікувати всі попередні проекти на GitHub.
 
-- [Lesson 19: Data Analysis in Excel](block-4/lesson-19/lesson.md)
-  - Topics: Working with data, formulas, functions, sorting, filtering, pivot tables.
+- [Урок 19: Аналіз даних в Excel](block-4 Developer Tools and Data Analytics/lesson-19 Data Analysis in Excel add BigQuery/lesson.md)
+  - Теми: Робота з даними, формули, функції, сортування, фільтрація, зведені таблиці.
 
-#### Block 5: Advanced Python and Algorithms (Lessons 20-23)
+#### Блок 5: Розширений Python та алгоритми (Уроки 20-23)
 
-- [Lesson 20: OOP in Python: Classes and Objects](block-5/lesson-20/lesson.md)
-  - Topics: OOP concepts, class, __init__, attributes, methods.
+- [Урок 20: ООП в Python: Класи та об'єкти](block-5 Advanced Python and Algorithms/lesson-20 Classes and Objects/lesson.md)
+  - Теми: Концепції ООП, клас, __init__, атрибути, методи.
 
-- [Lesson 21: OOP in Python: Inheritance and Files](block-5/lesson-21/lesson.md)
-  - Topics: Inheritance, super(). Working with files, exception handling (try/except).
+- [Урок 21: ООП в Python: Наслідування та файли](block-5 Advanced Python and Algorithms/lesson-21 Inheritance and Files/lesson.md)
+  - Теми: Наслідування, super(). Робота з файлами, обробка виключень (try/except).
 
-- Homework 4: Implement a Circle class in a Python project.
+- Домашнє завдання 4: Реалізувати клас Circle у проекті на Python.
 
-- [Lesson 22: Algorithms: Search and Evaluation](block-5/lesson-22/lesson.md)
-  - Topics: Nearest point search algorithm (Euclidean distance). Implementation in Python.
+- [Урок 22: Алгоритми: Пошук та оцінка](block-5 Advanced Python and Algorithms/lesson-22 lgorithms Search and Evaluation/lesson.md)
+  - Теми: Алгоритм пошуку найближчої точки (Евклідова відстань). Реалізація на Python.
 
-- Homework 5: Implement a function to find the nearest cafe in Python.
+- Домашнє завдання 5: Реалізувати функцію для пошуку найближчого кафе на Python.
 
-- [Lesson 23: Advanced Python Features (Overview)](block-5/lesson-23/lesson.md)
-  - Topics: Serialization (Pickle), Regular expressions, Basics of working with Databases, Basics of web development in Python.
+- [Урок 23: Розширені функції Python (Огляд)](block-5 Advanced Python and Algorithms/lesson-23 Advanced Python Features/lesson.md)
+  - Теми: Сериалізація (Pickle), регулярні вирази, основи роботи з базами даних, основи веб-розробки на Python.
 
-#### Block 6: Blockchain and Cryptocurrencies (Lessons 24-26)
+#### Блок 6: Блокчейн та криптовалюти (Уроки 24-26)
 
-- [Lesson 24: Basics of Blockchain and Bitcoin](block-6/lesson-24/lesson.md)
-  - Topics: Decentralization, cryptography (hashes, signatures), consensus, Bitcoin structure.
+- [Урок 24: Основи блокчейну та Bitcoin](block-6 Blockchain and Cryptocurrencies/lesson-24 Basics of Blockchain and Bitcoin/lesson.md)
+  - Теми: Децентралізація, криптографія (хеші, підписи), консенсус, структура Bitcoin.
 
-- [Lesson 25: Ethereum and Smart Contracts](block-6/lesson-25/lesson.md)
-  - Topics: Differences from Bitcoin, account model, concept and capabilities of smart contracts, EVM.
+- [Урок 25: Ethereum та смарт-контракти](block-6 Blockchain and Cryptocurrencies/lesson-25 Ethereum and Smart Contracts/lesson.md)
+  - Теми: Відмінності від Bitcoin, модель облікових записів, концепція та можливості смарт-контрактів, EVM.
 
-- [Lesson 26: Practical Application: ERC-20 Tokens](block-6/lesson-26/lesson.md)
-  - Topics: ERC-20 standard, how tokens are created on Ethereum (overview of tools, possibly demonstration in a test network).
+- [Урок 26: Практичне застосування: ERC-20 токени](block-6 Blockchain and Cryptocurrencies/lesson-26 Practical Application ERC-20 Tokens/lesson.md)
+  - Теми: Стандарт ERC-20, як створюються токени на Ethereum (огляд інструментів, можливо демонстрація в тестовій мережі).
 
-#### Block 7: Course Summary (Lesson 27)
+#### Блок 7: Підсумок курсу (Урок 27)
 
-- [Lesson 27: Reflection and Next Steps](block-7/lesson-27/lesson.md)
-  - Topics: Review of the material covered, connection between topics, importance of self-assessment, tips for further learning.
+- [Урок 27: Рефлексія та наступні кроки](block-7 Course Summary/lesson-27 Summury/lesson.md)
+  - Теми: Огляд пройденого матеріалу, зв'язок між темами, важливість самооцінки, поради для подальшого навчання.
 
-- Homework 6 (Final): Conduct self-assessment, organize GitHub repositories.
+- Домашнє завдання 6 (Фінальне): Провести самооцінку, організувати репозиторії на GitHub.

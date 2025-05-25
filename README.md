@@ -8,7 +8,10 @@
 - [Підсумкова презентація для учнів](Oglyad-Tehnologichnij-Stek-Suchasnosti.pdf) - Містить основні матеріали та підсумки курсу для учнів.
 
 ## Teacher Resources
-- [Педагогічна концепція курсу](name-of-second-file.pdf) - Огляд педагогічних підходів та методик, що використовуються в курсі.
+- [Педагогічна концепція курсу](Pedagogichna-Koncepciya-Kursu-Tehnologichnij-Stek-Suchasnosti.pdf) - Огляд педагогічних підходів та методик, що використовуються в курсі.
+
+- [Технічне забезпечення курсу](Dodatkovi-Materiali-ta-Tehnichne-Zabezpechennya-Kursu-Tehnologichnij-Stek-Suchasnosti.pdf) - Опис необхідного обладнання, програмного забезпечення та технічних вимог для проведення курсу.
+
 
 ## Огляд курсу
 

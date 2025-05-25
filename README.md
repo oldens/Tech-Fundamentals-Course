@@ -10,7 +10,7 @@
 ## Teacher Resources
 - [Педагогічна концепція курсу](Pedagogichna-Koncepciya-Kursu-Tehnologichnij-Stek-Suchasnosti.pdf) - Огляд педагогічних підходів та методик, що використовуються в курсі.
 
-- [Технічне забезпечення курсу](Dodatkovi-Materiali-ta-Tehnichne-Zabezpechennya-Kursu-Tehnologichnij-Stek-Suchasnosti.pdf) - Опис необхідного обладнання, програмного забезпечення та технічних вимог для проведення курсу.
+- [Технічне забезпечення курсу](Tehnichne-Zabezpechennya.pdf) - Опис необхідного обладнання, програмного забезпечення та технічних вимог для проведення курсу.
 
 
 ## Огляд курсу
